@@ -1,19 +1,19 @@
 {
 	"name":	"supershabam-websocket",
 	"description":	"bloat-free websocket-draft10 classes that can be used directly, or implemented into a larger websocket framework such as Socket.IO or node-websocket-server",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"keywords": ["websocket", "websockets", "socket"],
 	"homepage": "http://github.com/supershabam/websocket",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/supershabam/websocket.git"
 	},
-	"author": "Ian Hansen <dev@supershabam.com">,
+	"author": "Ian Hansen <dev@supershabam.com>",
 	"directories": {
 		"lib": "."
 	},
 	"engines": {
-		"node": ">=1.4.x"
+		"node": ">=0.4.x"
 	},
 	"licenses": [ "MIT" ]
 }
