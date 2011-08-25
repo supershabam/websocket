@@ -1,7 +1,7 @@
 {
 	"name":	"supershabam-websocket",
 	"description":	"bloat-free websocket-draft10 classes that can be used directly, or implemented into a larger websocket framework such as Socket.IO or node-websocket-server",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"keywords": ["websocket", "websockets", "socket"],
 	"homepage": "http://github.com/supershabam/websocket",
 	"repository": {
