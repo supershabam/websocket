@@ -12,4 +12,5 @@ server.on('upgrade', function(req, socket) {
 	});
 });
 
-server.listen(3000);
+server.listen(process.env.C9_PORT, '0.0.0.0');
+console.log(process.env.C9_PORT);
